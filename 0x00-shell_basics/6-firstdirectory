@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m777 -p wecome/to/school
+mkdir -p /tmp/my_first_directory
